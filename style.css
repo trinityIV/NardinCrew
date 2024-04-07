@@ -32,11 +32,8 @@ body {
   }
 
   .tTop{
-    text-align: top ;
-    text-align: center;
-    margin-top: auto;
+    text-align: top;
   }
-  
   /******************************/
   .gradient-text-animation {
     --colorA: #D6009A;
